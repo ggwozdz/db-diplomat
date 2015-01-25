@@ -1,6 +1,4 @@
-package ggwozdz.dbdiplomat.rdbms.mappings;
-
-import ggwozdz.dbdiplomat.rdbms.operations.DBOperation;
+package ggwozdz.dbdiplomat.rdbms.operations;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

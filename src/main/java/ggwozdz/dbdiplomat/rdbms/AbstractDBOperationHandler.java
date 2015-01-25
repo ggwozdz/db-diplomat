@@ -1,9 +1,9 @@
 package ggwozdz.dbdiplomat.rdbms;
 
-import ggwozdz.dbdiplomat.rdbms.mappings.DBOperationException;
-import ggwozdz.dbdiplomat.rdbms.mappings.SelectQuery;
-import ggwozdz.dbdiplomat.rdbms.mappings.UpdateQuery;
 import ggwozdz.dbdiplomat.rdbms.operations.DBOperation;
+import ggwozdz.dbdiplomat.rdbms.operations.DBOperationException;
+import ggwozdz.dbdiplomat.rdbms.operations.SelectQuery;
+import ggwozdz.dbdiplomat.rdbms.operations.UpdateQuery;
 
 import java.sql.ResultSet;
 import java.util.Arrays;
