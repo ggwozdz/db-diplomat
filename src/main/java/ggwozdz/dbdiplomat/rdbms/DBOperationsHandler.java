@@ -1,7 +1,7 @@
 package ggwozdz.dbdiplomat.rdbms;
 
-import ggwozdz.dbdiplomat.rdbms.mappings.DBOperationException;
 import ggwozdz.dbdiplomat.rdbms.operations.DBOperation;
+import ggwozdz.dbdiplomat.rdbms.operations.DBOperationException;
 
 import java.sql.ResultSet;
 import java.util.List;

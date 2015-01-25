@@ -1,4 +1,4 @@
-package ggwozdz.dbdiplomat.rdbms.mappings;
+package ggwozdz.dbdiplomat.rdbms.operations;
 
 import java.sql.SQLException;
 
